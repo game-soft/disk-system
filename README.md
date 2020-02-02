@@ -1,5 +1,5 @@
-## Famicom Soft List
-### Famicom （NES） soft list of release dates
+## Famicom Disk System Soft List
+### Family Computer Disk System （NES） soft list of release dates
 
 [![NPM Version](https://img.shields.io/npm/v/@game-soft/disk-system.svg)](https://www.npmjs.com/package/@game-soft/disk-system)
 [![NPM Downloads](http://img.shields.io/npm/dm/@game-soft/disk-system.svg)](https://www.npmjs.com/package/@game-soft/disk-system)
