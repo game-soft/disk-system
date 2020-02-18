@@ -1,6 +1,6 @@
 {
   "name": "@game-soft/disk-system",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "lib/main.js",
   "description": "Family Computer Disk System （NES） soft list of release dates",
   "files": [
